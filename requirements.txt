@@ -1,2 +1,5 @@
 numpy
 scikit-learn
+xgboost
+lightgbm
+opencv-python
